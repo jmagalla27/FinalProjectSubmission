@@ -1,5 +1,9 @@
 
-"""Script that solves that solves the 2D shallow water equations using finite
+"""
+File copied from original repo: https://github.com/jostbr/shallow-water
+Edited by John M
+
+Script that solves that solves the 2D shallow water equations using finite
 differences where the momentum equations are taken to be linear, but the
 continuity equation is solved in its nonlinear form. The model supports turning
 on/off various terms, but in its mst complete form, the model solves the following
